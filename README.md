@@ -3,8 +3,6 @@
 
 <img src="https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FL3fb2kxTONSTEeMqh4TA%252FGroup%25205.png%3Falt%3Dmedia%26token%3D2d9873f9-3e42-4ffa-bb31-012636536014&width=300&dpr=4&quality=100&sign=f862a1a7&sv=2" width="500" height="707"/>
 
-<img src="https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FL3fb2kxTONSTEeMqh4TA%252FGroup%25205.png%3Falt%3Dmedia%26token%3D2d9873f9-3e42-4ffa-bb31-012636536014&width=300&dpr=4&quality=100&sign=f862a1a7&sv=2", width="500" height="707"/>
-
 
 ## 책 소개
 
