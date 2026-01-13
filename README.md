@@ -77,10 +77,9 @@ References. 참고 문헌
 
 ## E-Book 구매
 
-- Yes24: 
-- 교보문고: 
+- Yes24: https://www.yes24.com/product/goods/173649988
+- 교보문고: https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012440732
 - 알라딘: 
-
 
 ## Github 코드: 
 
